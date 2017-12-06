@@ -11,6 +11,6 @@ TextView txtname;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         txtname = (TextView)findViewById(R.id.txtname);
-        txtname.setText("asmaaa here");
+        txtname.setText("asmaaa hiiiiiii");
     }
 }
